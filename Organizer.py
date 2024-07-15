@@ -4,6 +4,7 @@ from pathlib import Path
 from os.path import isfile, join
 import shutil
 
+
 class Organizer:
 
     def __init__(self, Xpath):
